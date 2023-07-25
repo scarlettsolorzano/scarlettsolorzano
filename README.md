@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Scarlett Solórzano</h1>
-<h4 align="center">Engineering students at Colima University, see my <a href="https://scarlettsolorzano.carrd.co/" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm  <a href="https://scarlettsolorzano.carrd.co/" target="_blank">Scarlett Solórzano</a></h1>
+<h4 align="center">Engineering students at Colima University</h4>
 </div>
 
 <div align="center">
@@ -8,6 +8,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
