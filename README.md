@@ -3,12 +3,6 @@
 <h4 align="center">Engineering students at Colima University</h4>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/scarlett-solorzano/" target="blank"><img align="center"
