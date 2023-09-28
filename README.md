@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm  <a href="https://scarlettsolorzano.carrd.co/" target="_blank">Scarlett Solórzano</a></h1>
+<h1 align="center">Hi, I'm a <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"><a href="https://scarlettsolorzano.carrd.co/" target="_blank">Scarlett Solórzano</a></h1>
 <h4 align="center">Engineering students at Colima University</h4>
 </div>
 
